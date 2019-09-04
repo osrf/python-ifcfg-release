@@ -1,6 +1,5 @@
-ifcfg (0.7.2-1) bionic; urgency=medium
+ifcfg (0.18) bionic; urgency=medium
 
-  * Imported upstream version 0.7.2
+  * Imported upstream version 0.18
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 03 Sep 2019 17:46:20 +0200
-
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Sep 2019 12:15:09 +0000
