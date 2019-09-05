@@ -2,7 +2,7 @@ Source: python-ifcfg
 Section: python
 Priority: optional
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
-Build-Depends: debhelper (>= 9), dh-python, python3-all, python3-setuptools
+Build-Depends: debhelper (>= 9), dh-python, python3-all, python3-setuptools, python3-nose
 X-Python3-Version: >= 3.5
 Standards-Version: 4.1.4
 Vcs-Browser: https://github.com/osrf/python-ifcfg-release
