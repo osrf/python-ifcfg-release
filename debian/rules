@@ -14,4 +14,4 @@ override_dh_clean:
 # for some reason the auto pybuild command can not find the python
 # modules
 override_dh_auto_test:
-	PYBUILD_SYSTEM=custom PYBUILD_TEST_ARGS="nosetests" dh_auto_test
+	PYBUILD_SYSTEM=custom PYBUILD_TEST_ARGS="nosetests3" dh_auto_test
