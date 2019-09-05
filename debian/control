@@ -1,4 +1,4 @@
-Source: ifcfg
+Source: python-ifcfg
 Section: python
 Priority: optional
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>

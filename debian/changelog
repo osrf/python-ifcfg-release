@@ -1,4 +1,4 @@
-ifcfg (0.18-1) bionic; urgency=medium
+python-ifcfg (0.18-1) bionic; urgency=medium
 
   * Imported upstream version 0.18
 
