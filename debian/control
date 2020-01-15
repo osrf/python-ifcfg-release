@@ -12,7 +12,9 @@ Homepage: https://github.com/ftao/python-ifcfg
 Package: python3-ifcfg
 Architecture: all
 Multi-Arch: foreign
-Depends: ${python3:Depends}, ${misc:Depends}
+Depends: net-tools
+         ${python3:Depends},
+         ${misc:Depends}
 Provides: ${python3:Provides}
 Description: Python cross-platform network interface discovery (Python 3)
  Ifcfg is a cross-platform (Windows/Unix) library for parsing ifconfig and
