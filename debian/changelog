@@ -1,3 +1,9 @@
+python-ifcfg (0.18-2) bionic; urgency=medium
+
+  * Add dependency on net-tools
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 15 Jan 2020 21:23:16 +0100
+
 python-ifcfg (0.18-1) bionic; urgency=medium
 
   * Imported upstream version 0.18
