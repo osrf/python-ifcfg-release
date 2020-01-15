@@ -12,7 +12,7 @@ Homepage: https://github.com/ftao/python-ifcfg
 Package: python3-ifcfg
 Architecture: all
 Multi-Arch: foreign
-Depends: net-tools
+Depends: net-tools,
          ${python3:Depends},
          ${misc:Depends}
 Provides: ${python3:Provides}
